@@ -1,0 +1,10 @@
+C:\Users\wojta_000\Documents\Visual Studio 2013\Projects\Kantor\Kantor\bin\Debug\Kantor.exe.config
+C:\Users\wojta_000\Documents\Visual Studio 2013\Projects\Kantor\Kantor\obj\Debug\Kantor.csprojResolveAssemblyReference.cache
+C:\Users\wojta_000\Documents\Visual Studio 2013\Projects\Kantor\Kantor\obj\Debug\Kantor.Properties.Resources.resources
+C:\Users\wojta_000\Documents\Visual Studio 2013\Projects\Kantor\Kantor\obj\Debug\Kantor.csproj.GenerateResource.Cache
+C:\Users\wojta_000\Documents\Visual Studio 2013\Projects\Kantor\Kantor\bin\Debug\Kantor.exe
+C:\Users\wojta_000\Documents\Visual Studio 2013\Projects\Kantor\Kantor\bin\Debug\Kantor.pdb
+C:\Users\wojta_000\Documents\Visual Studio 2013\Projects\Kantor\Kantor\bin\Debug\RestSharp.dll
+C:\Users\wojta_000\Documents\Visual Studio 2013\Projects\Kantor\Kantor\bin\Debug\RestSharp.xml
+C:\Users\wojta_000\Documents\Visual Studio 2013\Projects\Kantor\Kantor\obj\Debug\Kantor.exe
+C:\Users\wojta_000\Documents\Visual Studio 2013\Projects\Kantor\Kantor\obj\Debug\Kantor.pdb
